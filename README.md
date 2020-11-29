@@ -61,7 +61,7 @@ This project sees the usage of the following models:
 * *Moving Average(MA) Model*
 * *AutoRegressive Integrated Moving Average(ARIMA) Model*
 * *Seasonal AutoRegressive Integrated Moving Average(SARIMA) Model*
-After building the model, the RMSE evaluator is used to check the metrics(such as error) between the actual(test dataset) value and the predicted value. Since the number
+<br />After building the model, the RMSE evaluator is used to check the metrics(such as error) between the actual(test dataset) value and the predicted value. Since the number
 of cases is in the scale of millions, the RMSE will also be a relatively a high number. <p />
 ### Results
 It can be seen that SARIMA gives the best predictions among all the models. After SARIMA falls the ARIMA model which has a much higher RMSE than SARIMA but does a decent job
