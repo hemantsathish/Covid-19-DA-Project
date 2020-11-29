@@ -1,22 +1,18 @@
 # Predictive Analysis of COVID-19
 
       
-  On 31st  December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised 
-concern because when a virus is new,  its effect on people was unknown.<br />
-  Coronavirus disease 2019 (COVID-19) is a contagious respiratory and vascular (blood vessel) disease. It is caused by becoming infected with severe acute respiratory 
-syndrome coronavirus 2 (SARS-CoV-2), which is a specific type of coronavirus. 
+&nbsp;&nbsp;&nbsp;&nbsp;On 31st  December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new,  its effect on people was unknown.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Coronavirus disease 2019 (COVID-19) is a contagious respiratory and vascular (blood vessel) disease. It is caused by becoming infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which is a specific type of coronavirus. 
 
 ## Goal of this Model
-Forecasting future COVID-19 case counts would allow governments, businesses, and individuals to prepare in advance and plan their responses accordingly. For instance, 
-local governments can use the results to anticipate the need for emergency supplies and health-related public services. Hospitals can use the results to foresee medical 
-supply and personnel shortages. Universities and companies can also use the results to plan for adequate protection for students and employees. 
+&nbsp;&nbsp;&nbsp;&nbsp;Forecasting future COVID-19 case counts would allow governments, businesses, and individuals to prepare in advance and plan their responses accordingly. For instance, local governments can use the results to anticipate the need for emergency supplies and health-related public services. Hospitals can use the results to foresee medical supply and personnel shortages. Universities and companies can also use the results to plan for adequate protection for students and employees. 
 
 ### Dataset
 - - - 
 [id1]: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=covid_19_data.csv
 [id2]: https://drive.google.com/file/d/1F5jBhDrawzO6nJv6rj1OQWKEksuMcSm2/view?usp=sharing
-The [Novel Coronavirus 2019 Dataset][id1] has been used to build the model. The dataset can also be found [here][id2].
-*Dataset was last updated on November 16th, 2020.*
+The [Novel Coronavirus 2019 Dataset][id1] has been used to build the model. The dataset can also be found [here][id2]. <br />
+<strong><em>Dataset was last updated on November 16th, 2020</strong></em>
 
 ### Installation
 - - -
