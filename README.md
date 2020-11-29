@@ -7,7 +7,6 @@ concern because when a virus is new,  its effect on people was unknown.<br />
 syndrome coronavirus 2 (SARS-CoV-2), which is a specific type of coronavirus. 
 
 ## Goal of this Model
-- - -
 Forecasting future COVID-19 case counts would allow governments, businesses, and individuals to prepare in advance and plan their responses accordingly. For instance, 
 local governments can use the results to anticipate the need for emergency supplies and health-related public services. Hospitals can use the results to foresee medical 
 supply and personnel shortages. Universities and companies can also use the results to plan for adequate protection for students and employees. 
@@ -17,6 +16,7 @@ supply and personnel shortages. Universities and companies can also use the resu
 [id1]: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=covid_19_data.csv
 [id2]: https://drive.google.com/file/d/1F5jBhDrawzO6nJv6rj1OQWKEksuMcSm2/view?usp=sharing
 The [Novel Coronavirus 2019 Dataset][id1] has been used to build the model. The dataset can also be found [here][id2].
+*Dataset was last updated on November 16th, 2020.*
 
 ### Installation
 - - -
