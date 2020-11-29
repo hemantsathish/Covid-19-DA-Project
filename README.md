@@ -8,11 +8,12 @@ match any other known virus. This raised concern because when a virus is new,  i
 severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which is a specific type of coronavirus. On the 11<sup>th</sup> of March 2020, WHO declared the Coronavirus
 outbreak to be a pandemic.<p />
       
-COVID-19 has been recognized as a global threat, and several studies are being conducted using various mathematical models to predict the probable evolution of this epidemic.
-These mathematical models are based on various factors and analysis are subject to potential bias. Data analytics plays an important role in analyzing and predicting the spread
-of the virus, which will help in stabilizing the situation in the fastest possible way.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COVID-19 has been recognized as a global threat, and several studies are being conducted using various mathematical models to predict the
+probable evolution of this epidemic. These mathematical models are based on various factors and analysis are subject to potential bias. Data analytics plays an important role in
+analyzing and predicting the spread of the virus, which will help in stabilizing the situation in the fastest possible way.
 
 ## Goal of this Model
+- - -
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forecasting future COVID-19 case counts would allow governments, businesses, and individuals to prepare in advance and plan their responses accordingly. For instance, local governments can use the results to anticipate the need for emergency supplies and health-related public services. Hospitals can use the results to foresee medical supply and personnel shortages. Universities and companies can also use the results to plan for adequate protection for students and employees. 
 
 ## Dataset
