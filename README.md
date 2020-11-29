@@ -2,7 +2,7 @@
 
       
   On 31st  December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised 
-concern because when a virus is new,  its effect on people was unknown.
+concern because when a virus is new,  its effect on people was unknown.<br />
   Coronavirus disease 2019 (COVID-19) is a contagious respiratory and vascular (blood vessel) disease. It is caused by becoming infected with severe acute respiratory 
 syndrome coronavirus 2 (SARS-CoV-2), which is a specific type of coronavirus. 
 
@@ -13,12 +13,11 @@ supply and personnel shortages. Universities and companies can also use the resu
 
 ### Installation
 The modules required for executing the program are numpy, pandas, matplotlib, plotly, seaborn, scikit-learn, pmdarima and statsmodels.
- * Item
-      1. Numpy and pandas are predominantly used for pre-processing. 
-       2. Matplotlib and plotly help in plotting graphs. 
-*The scikit-learn module will be useful in calculating metrics such as Root Mean Square Error(RMSE). 
-*For forecasting, we use the auto_arima package of the pmdarima module. 
-*The statsmodels module will come handy while performing exponential smoothing.
+* **Numpy** and **Pandas** are predominantly used for pre-processing. 
+* **Matplotlib** and **Plotly** help in plotting graphs. 
+* The **scikit-learn** module will be useful in calculating metrics such as Root Mean Square Error(RMSE). 
+* For forecasting, we use the **auto_arima package of the pmdarima module**. 
+* The **statsmodels** module will come handy while performing exponential smoothing.
 
       $ pip install pandas
       $ pip install numpy
