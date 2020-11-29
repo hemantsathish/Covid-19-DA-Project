@@ -60,7 +60,7 @@ This project sees the usage of the following models:
 * *AutoRegressive(AR) Model*
 * *Moving Average(MA) Model*
 * *AutoRegressive Integrated Moving Average(ARIMA) Model*
-* *Seasonal AutoRegressive Integrated Moving Average(SARIMA) Model*<p />
+* *Seasonal AutoRegressive Integrated Moving Average(SARIMA) Model*
 After building the model, the RMSE evaluator is used to check the metrics(such as error) between the actual(test dataset) value and the predicted value. Since the number
 of cases is in the scale of millions, the RMSE will also be a relatively a high number. <p />
 ### Results
