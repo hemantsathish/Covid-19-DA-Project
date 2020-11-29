@@ -32,4 +32,34 @@ The modules required for executing the program are numpy, pandas, matplotlib, pl
       $ pip install statsmodels
       $ pip install plotly
 
-### 
+### Project Flow
+- - -
+The project begins with pre-processing and EDA. The province column is dropped due to the high amount of missing values in it. The dataset is then grouped by countries and 
+the observation date of the reported case. All the cases reported on any day is added on a cumulative basis. The mortality rate and recovery rate are computed and visualized to
+get a better understanding of the spread of the virus. The dataset can be categorized as a time series data as the data points are indexed in time order.<br />
+Different models such as Holt Winters, AR, MA, ARIMA, SARIMA, Prophet etc. can be used for forecasting a time series data. 
+## Time Series Analysis
+Any time series data will have four important components, i.e..., trend, seasonality, noise and cyclicity and the ones with the presence of trend and seasonality can be marked
+as non-stationary time series. The two common ways of converting a non-stationary time series to a stationary time series is either by simple exponential smoothing or
+differencing. The ADF (Augmented Dickey Fuller) statistic is compared with the p-statistic to check for stationarity.<br />
+The importance of converting a dataset from non-stationary to stationary arises due to the fact that the behavior of the time series in a particular time interval may repeat
+over a different interval and it will affect the forecasting if that is not taken into account. This eventually helps in improving the accuracy of the model.<p />
+## Models
+This project sees the usage of the following models:
+* *Holt's Linear Model*
+* *Holt Winters Model*
+* *AutoRegressive(AR) Model*
+* *Moving Average(MA) Model*
+* *AutoRegressive Integrated Moving Average(ARIMA) Model*
+* *Seasonal AutoRegressive Integrated Moving Average(SARIMA) Model*<p />
+After building the model, the RMSE evaluator is used to check the metrics(such as error) between the actual(test dataset) value and the predicted value. Since the number
+of cases is in the scale of millions, the RMSE will also be a relatively a high number. <p />
+## Results
+It can be seen that SARIMA gives the best predictions among all the models. After SARIMA falls the ARIMA model which has a much higher RMSE than SARIMA but does a decent job
+with the predictions.<p />
+
+### Conclusion
+- - -
+The model can give a fair idea about the rate at which the virus is going to spread around the globe. This information can be very helpful to understand how and when offices,
+colleges and other institutions can be opened. To make this model perform better many other factors such as lockdown implementation, control on gatherings, economy etc. need to
+be considered to predict the inflection points. This is because the number of cases can have an impact if people do not follow the safety norms. 
