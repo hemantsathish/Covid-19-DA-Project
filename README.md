@@ -12,7 +12,7 @@ local governments can use the results to anticipate the need for emergency suppl
 supply and personnel shortages. Universities and companies can also use the results to plan for adequate protection for students and employees. 
 
 ### Installation
-<hr />
+- - -
 The modules required for executing the program are numpy, pandas, matplotlib, plotly, seaborn, scikit-learn, pmdarima and statsmodels.
 * **Numpy** and **Pandas** are predominantly used for pre-processing. 
 * **Matplotlib** and **Plotly** help in plotting graphs. 
