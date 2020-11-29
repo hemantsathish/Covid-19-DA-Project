@@ -50,7 +50,7 @@ Different models such as Holt Winters, AR, MA, ARIMA, SARIMA, Prophet etc. can b
 ### Time Series Analysis
 Any time series data will have four important components, i.e..., trend, seasonality, noise and cyclicity and the ones with the presence of trend and seasonality can be marked
 as non-stationary time series. The two common ways of converting a non-stationary time series to a stationary time series is either by simple exponential smoothing or
-differencing. The ADF (Augmented Dickey Fuller) statistic is compared with the p-statistic to check for stationarity.<br />
+differencing. The ADF (Augmented Dickey Fuller) statistic is compared with the critical values and p-statistic to check for stationarity.<br />
 The importance of converting a dataset from non-stationary to stationary arises due to the fact that the behavior of the time series in a particular time interval may repeat
 over a different interval and it will affect the forecasting if that is not taken into account. This eventually helps in improving the accuracy of the model.<p />
 ### Models
