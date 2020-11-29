@@ -1,11 +1,11 @@
 # Predictive Analysis of COVID-19
 
       
-&nbsp;&nbsp;&nbsp;&nbsp;On 31st  December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new,  its effect on people was unknown.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;Coronavirus disease 2019 (COVID-19) is a contagious respiratory and vascular (blood vessel) disease. It is caused by becoming infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which is a specific type of coronavirus. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On 31st  December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new,  its effect on people was unknown.<p />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coronavirus disease 2019 (COVID-19) is a contagious respiratory and vascular (blood vessel) disease. It is caused by becoming infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which is a specific type of coronavirus. 
 
 ## Goal of this Model
-&nbsp;&nbsp;&nbsp;&nbsp;Forecasting future COVID-19 case counts would allow governments, businesses, and individuals to prepare in advance and plan their responses accordingly. For instance, local governments can use the results to anticipate the need for emergency supplies and health-related public services. Hospitals can use the results to foresee medical supply and personnel shortages. Universities and companies can also use the results to plan for adequate protection for students and employees. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forecasting future COVID-19 case counts would allow governments, businesses, and individuals to prepare in advance and plan their responses accordingly. For instance, local governments can use the results to anticipate the need for emergency supplies and health-related public services. Hospitals can use the results to foresee medical supply and personnel shortages. Universities and companies can also use the results to plan for adequate protection for students and employees. 
 
 ### Dataset
 - - - 
